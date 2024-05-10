@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Mlodon123
-- 👀 I’m interested in Machine Learining nad data base
-- 🌱 I’m currently learning Machine Learining nad data base
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I 'm Arek 
+my linkedin: https://www.linkedin.com/in/arkadiusz-staroń-91aaa52b1/
+I'm intrested in machine learning and deeplearing
+
 
 <!---
 Mlodon123/Mlodon123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
